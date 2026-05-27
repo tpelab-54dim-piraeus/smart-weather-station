@@ -33,16 +33,16 @@
  - DFRduino UNO R3 (Arduino Uno R3 Compatible)				
  - Gravity IO Expansion Shield for Arduino V7.1				
  - Battery Holder 6xAA - Plug 5.5/2.1mm					
- - Gravity Digital RGB LED Module						
+ - Gravity Digital RGB LED Module	x2					
  - Gravity DC Micro Metal Gear Motor w/Driver - 75:1	x2			
- - Gravity LCD Display 16x2 RGB I2C Module V2.0				
+ - Gravity LCD Display 16x2 RGB I2C Module V2.0
+ - Gravity High Accuracy Temperature, Humidity, Pressure, Ambient Light and UV Sensor - I2C/UART									
  - Κιτ Ανεμόμετρου 0-5V (Κατηγορία IP65)					
  - Τροφοδοτικό 12V								
  - Gravity Steam Sensor (βροχής)					
  - Καλώδια, μπαταρίες, υλικά μακέτας
- - DFRobot Gravity Data Acquisition Module Kit **ή εναλλακτικά**
 
-   - Gravity High Accuracy Temperature, Humidity, Pressure, Ambient Light and UV Sensor - I2C/UART									
-   - Fermion SHT31-F Digital Temperature & Humidity Sensor			
-
+## Υπεύθυνοι Εκπαιδευτικοί
+ - Βαλλιάνος Βασίλειος ΠΕ86
+ - Κλωστράκη Γεωργία ΠΕ70
 
